@@ -7,7 +7,8 @@
 - 次にLiveUSBを作成するためのアプリ（balenaEtcher) をダウンロード 
 　 [balenaEtcher](https://www.balena.io/etcher/)
   - balenaEtcherを起動、`Select image`でLubuntu18.04のイメージを選択
-  - `Flash`で実行
+  - `Flash`で実行  
+  ---
 
 ## 2．インストール
 1.  USBからインストールするにはUSB起動させる必要があります。 
@@ -29,7 +30,7 @@
 ***※ディスクの中身を全て消去してインストールを行うので、重要なデータがある場合要注意*** 
 - windowsやmacが必要ないという方はディスク消去インストールを推奨します。  
 ですが、もしもの為にリカバリーメディアを作成しておく事をおすすめします。  
-リカバリーメディア作成手順リンク [win10](　http://shuttle-japan.jp/wp-content/uploads/2018/05/manual_recovery_win10.pdf) [mac](https://support.apple.com/ja-jp/HT201372)
+リカバリーメディア作成手順リンク [win10](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://shuttle-japan.jp/wp-content/uploads/2018/05/manual_recovery_win10.pdf) [mac](https://support.apple.com/ja-jp/HT201372)
 
 6. ディスクに変更を書き込みますか？の確認   
 `続ける`を選択
@@ -53,4 +54,3 @@
 12. お疲れ様でした、再起動ができてホーム画面が表示されるとインストール完了！  
 再起動後、ログインするとこのような画面が表示されていればOK  
 ![](https://www.kunihikokaneko.com/dblab/linux/212.png)  
----

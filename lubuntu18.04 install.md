@@ -53,4 +53,4 @@
 
 12. お疲れ様でした、再起動ができてホーム画面が表示されるとインストール完了！  
 再起動後、ログインするとこのような画面が表示されていればOK  
-![](https://www.kunihikokaneko.com/dblab/linux/212.png)  
+![](https://www.kunihikokaneko.com/dblab/linux/212.png =200x200)  

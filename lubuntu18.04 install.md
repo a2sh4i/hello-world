@@ -30,7 +30,7 @@
 ***※ディスクの中身を全て消去してインストールを行うので、重要なデータがある場合要注意*** 
 - windowsやmacが必要ないという方はディスク消去インストールを推奨します。  
 ですが、もしもの為にリカバリーメディアを作成しておく事をおすすめします。  
-リカバリーメディア作成手順リンク [win10](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://shuttle-japan.jp/wp-content/uploads/2018/05/manual_recovery_win10.pdf) [mac](https://support.apple.com/ja-jp/HT201372)
+リカバリーメディア作成手順リンク [win](https://support.microsoft.com/ja-jp/help/4026852) [mac](https://support.apple.com/ja-jp/HT201372)
 
 6. ディスクに変更を書き込みますか？の確認   
 `続ける`を選択

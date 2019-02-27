@@ -8,7 +8,6 @@
 　 [balenaEtcher](https://www.balena.io/etcher/)
   - balenaEtcherを起動、`Select image`でLubuntu18.04のイメージを選択
   - `Flash`で実行
----
 
 ## 2．インストール
 1.  USBからインストールするにはUSB起動させる必要があります。 

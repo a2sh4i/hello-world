@@ -30,7 +30,7 @@
 ***※ディスクの中身を全て消去してインストールを行うので、重要なデータがある場合要注意*** 
 - windowsやmacが必要ないという方はディスク消去インストールを推奨します。  
 ですが、もしもの為にリカバリーメディアを作成しておく事をおすすめします。  
-リカバリーメディア作成手順リンク [win](https://support.microsoft.com/ja-jp/help/4026852) mac![](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Apple_logo_black.svg#/media/File:Apple_Computer_Logo_rainbow.svg)(https://support.apple.com/ja-jp/HT201372)
+リカバリーメディア作成手順リンク [win](https://support.microsoft.com/ja-jp/help/4026852) mac[![https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Apple_logo_black.svg#/media/File:Apple_Computer_Logo_rainbow.svg](https://support.apple.com/ja-jp/HT201372)
 
 6. ディスクに変更を書き込みますか？の確認   
 `続ける`を選択
